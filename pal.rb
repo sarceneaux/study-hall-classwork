@@ -1,3 +1,4 @@
+#this is my comment for you to find later
 puts "Enter a word.  We'll see if it's a palindrome"
 word = gets.chomp
 
